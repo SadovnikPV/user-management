@@ -3,13 +3,13 @@
 use webvimark\modules\UserManagement\models\User;
 use webvimark\modules\UserManagement\UserManagementModule;
 use yii\helpers\Html;
-use yii\bootstrap\ActiveForm;
-use webvimark\extensions\BootstrapSwitch\BootstrapSwitch;
+use yii\bootstrap4\ActiveForm;
+use webvimark\extensions\bootstrap4Switch\bootstrap4Switch;
 
 /**
  * @var yii\web\View $this
  * @var webvimark\modules\UserManagement\models\User $model
- * @var yii\bootstrap\ActiveForm $form
+ * @var yii\bootstrap4\ActiveForm $form
  */
 ?>
 
